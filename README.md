@@ -34,7 +34,7 @@ To make a web application that allows the user to save notes to help them remebe
 
 ### Video Demo
 
-(Coming Soon)
+[Screencast Demo](https://www.screencast.com/t/mKo0tpYx)
 
 ### License
 [MIT License used for this project](../blob/master/LICENSE)
